@@ -1,0 +1,19 @@
+{
+  "name": "comet-liquidator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "hardhat compile",
+    "liquidator": "hardhat run scripts/liquidation_bot/index.ts"
+  },
+  "dependencies": {
+    "@compound-finance/sleuth": "^1.0.1-alpha8",
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "alchemy-sdk": "^2.10.1",
+    "hardhat": "^2.18.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

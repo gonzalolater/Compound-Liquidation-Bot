@@ -4,6 +4,9 @@ A continuously running script that liquidates Compound III accounts that violate
 
 [Alchemy](https://alchemy.com/?source=compound-comet-liquidator-github) is used to find out the current Comet borrower accounts. [Alchemy Transact](https://docs.alchemy.com/reference/transact-api-quickstart?source=compound-comet-liquidator-github) is used to test the liquidation transactions before they are submitted to the blockchain. Alchemy Notify is used with a [Alchemy Mined Transaction Webhook](https://docs.alchemy.com/reference/mined-transaction-webhook?source=compound-comet-liquidator-github). An [Autocode](https://autocode.com/?source=compound-comet-liquidator-github) webhook listens for the http request and sends an email via SendGrid to the liquidator.
 
+## Youtube
+https://youtu.be/rubi-TIwdBk
+
 ## Install
 
 Clone this repository and install Node.js and Yarn.

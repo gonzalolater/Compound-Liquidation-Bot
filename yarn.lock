@@ -397,10 +397,10 @@
     "@ethersproject/properties" "^5.7.0"
     "@ethersproject/strings" "^5.7.0"
 
-"@flashbots/ethers-provider-bundle@^0.6.2":
-  version "0.6.2"
-  resolved "https://registry.npmjs.org/@flashbots/ethers-provider-bundle/-/ethers-provider-bundle-0.6.2.tgz"
-  integrity sha512-W4Hi47zWggWgLBwhoxH3qaojudAjcbBU+ldEYi5o06UQm/25Hk/AUvCLiN+9nvy1g3xxpF9QBdMniUwjC4cpBw==
+"@flashbots/ethers-provider-bundle@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@flashbots/ethers-provider-bundle/-/ethers-provider-bundle-1.0.0.tgz#555c6208c668d1818820143b067d38f2a63a8556"
+  integrity sha512-KXOSA2RFFq91KN7H6nskbBaV+yd3QKI9jj8r1CEsD00sXBV3uSoQ3wG6u7qkjxp2EfvWy31pynWfZZVoWyNQ3Q==
 
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.1"

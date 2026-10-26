@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@compound-finance/sleuth": "^1.0.1-alpha8",
-    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "@flashbots/ethers-provider-bundle": "^1.0.0",
     "@nomiclabs/hardhat-ethers": "^2.2.3",
     "alchemy-sdk": "^2.10.1",
     "hardhat": "^2.18.2",
